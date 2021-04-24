@@ -11,4 +11,5 @@ We are going to collaborate on GitHub and code using the C language!
 * umzr
 * eunicek4632
 * mku24
+* Moira-Z
 * more to come!
