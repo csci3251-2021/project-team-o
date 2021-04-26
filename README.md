@@ -8,6 +8,12 @@ We are going to collaborate on GitHub and code using the C language!
 
 ### Contributors :family_man_woman_girl_boy:	
 
+
+* umzr
+* eunicek4632
+* mku24
+* Moira-Z
+
 {% for contributor in site.stu %}
   ![]({{ contributor.image }})
   <h2>
@@ -17,5 +23,6 @@ We are going to collaborate on GitHub and code using the C language!
   </h2>
   <p>{{ contributor.content | markdownify }}</p>
 {% endfor %}
+
 
 * more to come!
