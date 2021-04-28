@@ -4,7 +4,9 @@ In this project, students of CSCI3251 will finally get the chance to have real h
 
 ### Code :technologist:
 
-We are going to collaborate on GitHub and code using the C language! 
+We are going to collaborate on GitHub and code using the C language!
+
+{% highlight c %} {% include_relative code.c %} {% endhighlight %}
 
 ### Contributors :family_man_woman_girl_boy:	
 
@@ -13,6 +15,7 @@ We are going to collaborate on GitHub and code using the C language!
 * eunicek4632
 * mku24
 * Moira-Z
+* gabrielliu2001
 
 {% for contributor in site.stu %}
   ![]({{ contributor.image }})
