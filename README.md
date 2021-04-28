@@ -8,6 +8,8 @@ We are going to collaborate on GitHub and code using the C language!
 
 {% highlight c %} {% include_relative code.c %} {% endhighlight %}
 
+![Workflow](https://github.com/csci3251-2021/project-team-o/actions/workflows/c-cpp.yml/badge.svg)
+
 ### Contributors :family_man_woman_girl_boy:	
 
 
